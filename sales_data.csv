@@ -1,5 +1,4 @@
 sales_data.csv
-
 Order_ID,Date,Product,Region,Quantity,Unit_Price
 101,2026-01-05,Laptop,North,2,50000
 102,2026-01-08,Mobile,South,3,20000
