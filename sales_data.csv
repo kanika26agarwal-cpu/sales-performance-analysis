@@ -1,0 +1,13 @@
+sales_data.csv
+
+Order_ID,Date,Product,Region,Quantity,Unit_Price
+101,2026-01-05,Laptop,North,2,50000
+102,2026-01-08,Mobile,South,3,20000
+103,2026-01-12,Tablet,East,2,15000
+104,2026-01-15,Laptop,West,1,50000
+105,2026-02-03,Mobile,North,4,20000
+106,2026-02-10,Tablet,South,3,15000
+107,2026-02-18,Laptop,East,2,50000
+108,2026-03-02,Mobile,West,5,20000
+109,2026-03-10,Laptop,North,1,50000
+110,2026-03-15,Tablet,East,4,15000
