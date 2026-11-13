@@ -10,3 +10,5 @@ Order_ID,Date,Product,Region,Quantity,Unit_Price
 108,2026-03-02,Mobile,West,5,20000
 109,2026-03-10,Laptop,North,1,50000
 110,2026-03-15,Tablet,East,4,15000
+create a table with this dataset
+
